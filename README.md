@@ -10,6 +10,7 @@ It allows users to convert temperatures between different units, such as Celsius
 5. Mobile-friendly and responsive design.
 
 # Technologies Used
-HTML
-CSS
-JavaScript
+. HTML
+. CSS
+. JavaScript
+
